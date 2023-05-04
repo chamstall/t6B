@@ -1,0 +1,137 @@
+.navbar .btn-join-us {
+    background-color: #ff9800;
+}
+.navbar .nav-item .nav-link {
+    font-weight: 500;
+}
+.wrapper_banner .bg-Lgradient {
+    background-image: linear-gradient(to right, #0d423d, #0cc7b5);
+    border: 0.5px solid #e6e6e6;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 5px;
+    padding: 50px;
+    box-sizing: border-box;
+}
+.wrapper_banner .cc-un-margin-top {
+    margin-top: 120px;
+}
+.wrapper_banner .card-1 {
+    background: #009688;
+    border-radius: 25px;
+    padding: 60px 40px;
+}
+.wrapper_banner .card-2 {
+    border-radius: 25px;
+    padding: 60px 40px;
+}
+.wrapper_banner .hstack {
+    color: #fff;
+    font-weight: 500;
+    font-size: 20px;
+}
+.wrapper_banner .border-card-1 {
+    border-color: #f44336;
+}
+.wrapper_banner .border-card-2,
+.wrapper_banner .border-card-4 {
+    border-color: #009688;
+}
+.wrapper_banner .border-card-3 {
+    border-color: #ff9800;
+}
+.wrapper_banner .first {
+    color: #f44336;
+}
+.wrapper_banner .second,
+.wrapper_banner .fourth {
+    color: #009688;
+}
+.wrapper_banner .third {
+    color: #ff9800;
+}
+@media (max-width: 400px) {
+    .wrapper_banner .hstack p {
+        font-size: 14px;
+    }
+}
+.diplome_wrapper {
+    background-color: #f44336;
+}
+.diplome_wrapper .hstack p {
+    font-size: 18px;
+}
+.diplome_wrapper .un-margin-left-different {
+    margin-left: 67px;
+}
+.diplome_wrapper .un-margin-left {
+    margin-left: 80px;
+}
+.coachs .border-color-bakeli {
+    padding: 35px 40px;
+    border: 1px solid #009688;
+}
+.coachs .cercle-gris {
+    width: 20px;
+    height: 20px;
+    background-color: #c4c4c4;
+    border-radius: 50%;
+}
+.activités {
+    background-color: #f44336;
+}
+.activités .colonne1,
+.activités .colonne2,
+.activités .colonne3 {
+    margin-left: 20px;
+}
+@media (max-width: 580px) {
+    .activités .colonne1,
+    .activités .colonne2,
+    .activités .colonne3 {
+        margin-left: 0px;
+    }
+}
+.bg-logos-partenaires {
+    background-color: #f0f9f8;
+}
+.partenaires .card {
+    box-shadow: 0px 4px 4px rgba(198, 124, 129, 0.25);
+    border-radius: 15px;
+}
+.partenaires .bg-color-bakeli {
+    background-color: #009688;
+    padding-left: 20px;
+}
+.partenaires .bg-color-bakeli a {
+    color: #fff;
+}
+.partenaires .card-1 {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.partenaires .card-2 {
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+.partenaires .card-3 {
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+.partenaires .card-4 {
+    padding-top: 50px;
+    padding-bottom: 39px;
+}
+@media (max-width: 1200px) {
+    .partenaires .card-4 {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+}
+.partenaires .card-5 {
+    padding-top: 40px;
+    padding-bottom: 30px;
+}
+.partenaires .card-6 {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
